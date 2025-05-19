@@ -1,11 +1,11 @@
+// Программа запрашивает имя пользователя
+// и выводит приветственное сообщение
 #include <iostream>
 #include <string>
-using namespace std;
 
-int main() 
-{
-  string name;
-  cin >> name;
-  cout << "Hello world from " << name << endl;
+int main() {
+  std::string name;
+  std::cin >> name;
+  std::cout << "Hello world from " << name << std::endl;
   return 0;
 }
