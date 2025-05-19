@@ -1,5 +1,5 @@
-// Program query users name
-// and print welcoming message
+// Programma prosit imya polyzovatelya
+// I  vivodit privetstvennoe soobsheniye
 #include <iostream>
 #include <string>
 
