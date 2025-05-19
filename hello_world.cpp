@@ -1,13 +1,13 @@
-// Programma prosit imya polyzovatelya
-// I  vivodit privetstvennoe soobsheniye
+// Program query users name
+// and print welcoming message
 #include <iostream>
 #include <string>
 
 int
 main()
 {
-  string name;
-  cin >> name;
-  cout << "Hello world from " << name << endl;
+  std::string name;
+  std::cin >> name;
+  std::cout << "Hello world from " << name << std::endl;
   return 0;
 }
