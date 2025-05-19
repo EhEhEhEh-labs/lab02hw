@@ -1,5 +1,5 @@
-// Программа запрашивает имя пользователя
-// и выводит приветственное сообщение
+// Program query users name
+// and print welcoming message
 #include <iostream>
 #include <string>
 
